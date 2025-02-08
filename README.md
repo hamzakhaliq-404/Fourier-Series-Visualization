@@ -140,7 +140,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ## 📬 Contact
 
-**Hamza Khaliq** - [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=hugo&logoColor=white)](www.hamza.expert)  
+**Hamza Khaliq** - [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=hugo&logoColor=white)](https://www.hamza.expert)  
 [![Email](https://img.shields.io/badge/Email-hmza@hamza.expert-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hmza@hamza.expert)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hamzakhaliq-404)
 
