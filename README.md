@@ -146,4 +146,3 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ---
 
 Made with ❤️ by [Hamza Khaliq](www.hamza.expert) | [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hamzakhaliq)
-```
