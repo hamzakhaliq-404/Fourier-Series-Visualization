@@ -2,9 +2,10 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://fourier-series-visualization-pearl.vercel.app/)
 
-![Project Preview](./screenshot.png)  
 
 An interactive visualization of Fourier series harmonics using rotating vectors and wave superposition. Built with cutting-edge web technologies for immersive mathematical exploration.
+
+![Project Preview](./screenshot.png)  
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
